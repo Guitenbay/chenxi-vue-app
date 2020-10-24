@@ -1,4 +1,4 @@
-# test-prettier
+# chenxi-vue-app
 
 ## Project setup
 ```
