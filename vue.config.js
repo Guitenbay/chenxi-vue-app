@@ -13,7 +13,7 @@ module.exports = {
   },
   chainWebpack: config => {
     config.plugin('html').tap(args => {
-      args[0].title = 'APP | 晨曦';
+      args[0].title = 'APP | 晨曦'; // 在此修改页面 title
       return args;
     });
   },
